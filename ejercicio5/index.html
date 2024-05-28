@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 5 - Calculadora de Área de Terreno</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>Calculadora de Área de Terreno</h2>
+    <form id="areaForm">
+        <label for="baseMayor">Base mayor (A) en metros:</label>
+        <input type="number" id="baseMayor" name="baseMayor" step="0.01" required>
+        <br><br>
+        <label for="altura">Altura (B) en metros:</label>
+        <input type="number" id="altura" name="altura" step="0.01" required>
+        <br><br>
+        <label for="baseMenor">Base menor (C) en metros:</label>
+        <input type="number" id="baseMenor" name="baseMenor" step="0.01" required>
+        <br><br>
+        <button type="button" onclick="calcularArea()">Calcular</button>
+    </form>
+    <p id="resultado"></p>
+    <script src="script.js"></script>
+</body>
+</html>
