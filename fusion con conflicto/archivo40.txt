@@ -1,1 +1,1 @@
-Se crea tambien desde rama conconflicto archivo40
+Se crea archivo40 en rama segunda // se elige esta opcion sugerida por visual studio *

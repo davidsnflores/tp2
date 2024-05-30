@@ -1,1 +1,1 @@
-Se crea tambien desde rama conconflicto archivo30
+Se crea tambien desde rama conconflicto archivo30 // se elige esta opcion sugerida por visual studio *
