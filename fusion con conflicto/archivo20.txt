@@ -1,3 +1,7 @@
 Nuevo Archivo20
 Linea 2
+<<<<<<< HEAD
 Linea 3 desde conconflicto
+=======
+Linea 3 desde conconflicto y se vuelve a modificar aqui en rama tercera
+>>>>>>> tercera
