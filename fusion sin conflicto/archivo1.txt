@@ -1,2 +1,3 @@
 Este es el primer archivo de la rama "segunda".
 Se agrega nueva linea aqui, dentro de rama sinconflicto.
+Nueva linea.
