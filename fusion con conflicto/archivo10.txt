@@ -1,2 +1,2 @@
-Modificado Archivo10
-Se agrega linea aqui en rama conconflicto
+Modificado Archivo10 // dejo esta linea hecha en rama conconflicto *
+Se agrega linea desde rama tercera // dejo esta linea hecha en rama tercera *
