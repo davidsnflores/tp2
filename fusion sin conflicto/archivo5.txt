@@ -1,2 +1,3 @@
 Un nuevo archivo aqui.
 Se agrega linea.
+Este archivo solo se modificara en rama "sinconflico".
