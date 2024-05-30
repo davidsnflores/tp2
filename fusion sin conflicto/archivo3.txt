@@ -1,1 +1,2 @@
-Se crea tercer archivo en la rama "segunda".
+Se crea tercer archivo en la rama "segunda".git 
+Se agrega nueva linea aqui, dentro de rama sinconflicto.
