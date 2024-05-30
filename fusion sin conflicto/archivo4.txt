@@ -1,3 +1,4 @@
 Se crea un nuevo archivo en rama "sinconflicto".
 
 Este es el 4to archivo dentro de la carpera sinconflicto.
+Nueva linea desde rama tercera.
